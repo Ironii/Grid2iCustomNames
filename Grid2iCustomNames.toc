@@ -1,0 +1,8 @@
+## Interface: 70000
+## Title: Grid2iCustomNames
+## Notes: xxx
+## Author: Ironi
+## Version: v1.0
+## Dependencies: Grid2
+
+Grid2iCustomNames.lua
