@@ -3,6 +3,6 @@
 ## Notes: xxx
 ## Author: Ironi
 ## Version: v1.0
-## Dependencies: Grid2
+## Dependencies: Grid2, iCustomNames
 
 Grid2iCustomNames.lua
