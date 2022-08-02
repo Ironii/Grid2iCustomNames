@@ -16,11 +16,7 @@ end
 
 function Name:GetText(unit)
 	local name = UnitName(unit)
-	if iCustomNamesDB and iCustomNamesDB[name] then
-		return iCustomNamesDB[name]
-	else
-		return name
-	end
+	return iCN_GetName(name) or ""
 end
 
 local function Create(baseKey, dbx)
